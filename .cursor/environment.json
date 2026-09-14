@@ -1,0 +1,4 @@
+{
+    "name": "zigbee-OTA",
+    "install": "pnpm install --frozen-lockfile"
+}
